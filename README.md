@@ -23,7 +23,7 @@ During HackDay, I'm looking particularly at "Billboard" songs, which are formula
 
 ## Caveat: Pop Music simplicity
 
-    Regular beat.
+Regular beat. 4/4. Similar length phrases. Repeated Areas.
 
 ## Why I'm building this
 
@@ -42,6 +42,23 @@ I'd like to be able to
 
 ## Future Work
 
+Improved quality.
+
 - could use machine learning or other techniques to do this at scale. right now i am just investigating and using heuristics (4/4 songs mostly, even tempo)
 - ideally, want to run this against hundereds of songs with EN-annotations, automated-Python-annotations, and gold "human" annotations so i can see how i'm improving or breaking the algo with each change
 - then, can do a real analysis of effectiveness
+
+Naming Sections
+
+If I can look for similar sounds, e.g. as done by Paul in [Pop Structure](http://musicmachinery.com/2012/11/19/visualizing-the-structure-of-pop-music/), I would like to be able to guess what's a chorus vs a verse, intro, etc.
+
+## Related rojects
+
+- Webaudio API book http://chimera.labs.oreilly.com/books/1234000001552/ch04.html
+- http://moduscreate.com/touch-dj-a-sencha-touch-dj-app/
+- webAudio spec https://dvcs.w3.org/hg/audio/raw-file/tip/webaudio/specification.html
+- EchoNest Analyze track documentation ...  http://developer.echonest.com/docs/v4/_static/AnalyzeDocumentation.pdf
+- pop structure http://musicmachinery.com/2012/11/19/visualizing-the-structure-of-pop-music/
+- Remix.JS graph http://tide-pool.ca/remix-graph/examples/graph.html?trid=TRJNCBX14141A5C329
+- infinite song .. http://static.echonest.com/mobiustube/
+
