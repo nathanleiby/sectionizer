@@ -5,8 +5,9 @@ uses EchoNest API and heuristics to guess the exact beat where sections start. b
 
 During HackDay, I'm looking particularly at "Billboard" songs, which are formulaic and regular.
 
-## How it Works
+!["demo"](demo.png)
 
+## How it Works
 
 1. **Use EchoNest API to fetch song details**. I'm particularly using
     - beats (start, confidence)
