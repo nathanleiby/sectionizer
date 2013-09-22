@@ -41,7 +41,7 @@ I'd like to be able to
 
 %run update_song.py 004
 
-3. harder one : has sound at start .. but can offset by beats... I need to get better at automating this
+2. harder one : has sound at start .. but can offset by beats... I need to get better at automating this
 
 `016 Capital Cities - Safe and Sound.mp3`
 
