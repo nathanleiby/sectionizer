@@ -10,7 +10,7 @@ import subprocess
 # import ipdb
 import pickle
 
-config.ECHO_NEST_API_KEY="KPUPXJXBOR46K1Q73" # shhh.. secret!
+#config.ECHO_NEST_API_KEY="SECRET"
 
 mypath = "/Users/pika/Projects/music-hackday/sectionator/media/"
 
