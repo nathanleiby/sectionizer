@@ -1,0 +1,2923 @@
+{
+  "bars": [
+    {
+      "confidence": 0.147, 
+      "duration": 2.01102, 
+      "start": 0.12871
+    }, 
+    {
+      "confidence": 0.164, 
+      "duration": 1.99846, 
+      "start": 2.13973
+    }, 
+    {
+      "confidence": 0.323, 
+      "duration": 2.00069, 
+      "start": 4.13819
+    }, 
+    {
+      "confidence": 0.422, 
+      "duration": 1.99563, 
+      "start": 6.13888
+    }, 
+    {
+      "confidence": 0.701, 
+      "duration": 1.99944, 
+      "start": 8.13451
+    }, 
+    {
+      "confidence": 0.57, 
+      "duration": 1.99851, 
+      "start": 10.13395
+    }, 
+    {
+      "confidence": 0.753, 
+      "duration": 1.99385, 
+      "start": 12.13246
+    }, 
+    {
+      "confidence": 0.328, 
+      "duration": 2.00088, 
+      "start": 14.12631
+    }, 
+    {
+      "confidence": 0.077, 
+      "duration": 2.00444, 
+      "start": 16.12719
+    }, 
+    {
+      "confidence": 0.669, 
+      "duration": 2.00093, 
+      "start": 18.13163
+    }, 
+    {
+      "confidence": 0.803, 
+      "duration": 1.99294, 
+      "start": 20.13256
+    }, 
+    {
+      "confidence": 0.243, 
+      "duration": 2.00056, 
+      "start": 22.1255
+    }, 
+    {
+      "confidence": 0.232, 
+      "duration": 2.00281, 
+      "start": 24.12606
+    }, 
+    {
+      "confidence": 0.509, 
+      "duration": 1.99964, 
+      "start": 26.12887
+    }, 
+    {
+      "confidence": 0.56, 
+      "duration": 2.00359, 
+      "start": 28.12851
+    }, 
+    {
+      "confidence": 0.423, 
+      "duration": 1.99814, 
+      "start": 30.1321
+    }, 
+    {
+      "confidence": 0.203, 
+      "duration": 1.99897, 
+      "start": 32.13024
+    }, 
+    {
+      "confidence": 0.51, 
+      "duration": 2.00161, 
+      "start": 34.12921
+    }, 
+    {
+      "confidence": 0.547, 
+      "duration": 2.02386, 
+      "start": 36.13081
+    }, 
+    {
+      "confidence": 0.76, 
+      "duration": 2.99512, 
+      "start": 38.15468
+    }, 
+    {
+      "confidence": 0.722, 
+      "duration": 1.98875, 
+      "start": 41.1498
+    }, 
+    {
+      "confidence": 0.561, 
+      "duration": 2.00357, 
+      "start": 43.13855
+    }, 
+    {
+      "confidence": 0.818, 
+      "duration": 1.99912, 
+      "start": 45.14212
+    }, 
+    {
+      "confidence": 0.276, 
+      "duration": 2.00547, 
+      "start": 47.14124
+    }, 
+    {
+      "confidence": 0.275, 
+      "duration": 2.00171, 
+      "start": 49.14671
+    }, 
+    {
+      "confidence": 0.306, 
+      "duration": 1.99876, 
+      "start": 51.14842
+    }, 
+    {
+      "confidence": 0.556, 
+      "duration": 1.98879, 
+      "start": 53.14718
+    }, 
+    {
+      "confidence": 0.093, 
+      "duration": 1.99339, 
+      "start": 55.13597
+    }, 
+    {
+      "confidence": 0.644, 
+      "duration": 2.00313, 
+      "start": 57.12936
+    }, 
+    {
+      "confidence": 0.276, 
+      "duration": 2.00272, 
+      "start": 59.13249
+    }, 
+    {
+      "confidence": 0.251, 
+      "duration": 1.99628, 
+      "start": 61.13522
+    }, 
+    {
+      "confidence": 0.502, 
+      "duration": 2.00528, 
+      "start": 63.1315
+    }, 
+    {
+      "confidence": 0.453, 
+      "duration": 1.99958, 
+      "start": 65.13678
+    }, 
+    {
+      "confidence": 0.69, 
+      "duration": 2.00143, 
+      "start": 67.13636
+    }, 
+    {
+      "confidence": 0.224, 
+      "duration": 1.99658, 
+      "start": 69.13779
+    }, 
+    {
+      "confidence": 0.611, 
+      "duration": 1.99972, 
+      "start": 71.13437
+    }, 
+    {
+      "confidence": 0.511, 
+      "duration": 2.00238, 
+      "start": 73.1341
+    }, 
+    {
+      "confidence": 0.407, 
+      "duration": 1.99324, 
+      "start": 75.13648
+    }, 
+    {
+      "confidence": 0.528, 
+      "duration": 1.99473, 
+      "start": 77.12972
+    }, 
+    {
+      "confidence": 0.333, 
+      "duration": 2.00305, 
+      "start": 79.12445
+    }, 
+    {
+      "confidence": 0.251, 
+      "duration": 2.0053, 
+      "start": 81.1275
+    }, 
+    {
+      "confidence": 0.304, 
+      "duration": 1.99141, 
+      "start": 83.1328
+    }, 
+    {
+      "confidence": 0.587, 
+      "duration": 2.00069, 
+      "start": 85.12421
+    }, 
+    {
+      "confidence": 0.474, 
+      "duration": 2.00207, 
+      "start": 87.12489
+    }, 
+    {
+      "confidence": 0.676, 
+      "duration": 1.99768, 
+      "start": 89.12697
+    }, 
+    {
+      "confidence": 0.768, 
+      "duration": 2.00032, 
+      "start": 91.12465
+    }, 
+    {
+      "confidence": 0.549, 
+      "duration": 2.00516, 
+      "start": 93.12497
+    }, 
+    {
+      "confidence": 0.643, 
+      "duration": 1.99802, 
+      "start": 95.13013
+    }, 
+    {
+      "confidence": 0.536, 
+      "duration": 1.99891, 
+      "start": 97.12815
+    }, 
+    {
+      "confidence": 0.182, 
+      "duration": 2.00183, 
+      "start": 99.12706
+    }, 
+    {
+      "confidence": 0.095, 
+      "duration": 2.01879, 
+      "start": 101.12889
+    }, 
+    {
+      "confidence": 0.332, 
+      "duration": 1.9976, 
+      "start": 103.14768
+    }, 
+    {
+      "confidence": 0.773, 
+      "duration": 1.98895, 
+      "start": 105.14528
+    }, 
+    {
+      "confidence": 0.633, 
+      "duration": 2.00155, 
+      "start": 107.13423
+    }, 
+    {
+      "confidence": 0.249, 
+      "duration": 1.99791, 
+      "start": 109.13579
+    }, 
+    {
+      "confidence": 0.574, 
+      "duration": 2.00688, 
+      "start": 111.1337
+    }, 
+    {
+      "confidence": 0.494, 
+      "duration": 2.00249, 
+      "start": 113.14057
+    }, 
+    {
+      "confidence": 0.634, 
+      "duration": 1.99723, 
+      "start": 115.14306
+    }, 
+    {
+      "confidence": 0.298, 
+      "duration": 1.99169, 
+      "start": 117.14029
+    }, 
+    {
+      "confidence": 0.595, 
+      "duration": 2.00282, 
+      "start": 119.13198
+    }, 
+    {
+      "confidence": 0.45, 
+      "duration": 1.99925, 
+      "start": 121.13481
+    }, 
+    {
+      "confidence": 0.113, 
+      "duration": 1.99957, 
+      "start": 123.13406
+    }, 
+    {
+      "confidence": 0.616, 
+      "duration": 1.99667, 
+      "start": 125.13362
+    }, 
+    {
+      "confidence": 0.262, 
+      "duration": 2.00611, 
+      "start": 127.13029
+    }, 
+    {
+      "confidence": 0.613, 
+      "duration": 2.00345, 
+      "start": 129.1364
+    }, 
+    {
+      "confidence": 0.887, 
+      "duration": 1.99943, 
+      "start": 131.13985
+    }, 
+    {
+      "confidence": 0.4, 
+      "duration": 1.99081, 
+      "start": 133.13927
+    }, 
+    {
+      "confidence": 0.233, 
+      "duration": 1.99862, 
+      "start": 135.13008
+    }, 
+    {
+      "confidence": 0.487, 
+      "duration": 2.00489, 
+      "start": 137.1287
+    }, 
+    {
+      "confidence": 0.442, 
+      "duration": 1.99248, 
+      "start": 139.13359
+    }, 
+    {
+      "confidence": 0.844, 
+      "duration": 1.99825, 
+      "start": 141.12607
+    }, 
+    {
+      "confidence": 0.229, 
+      "duration": 2.00099, 
+      "start": 143.12433
+    }, 
+    {
+      "confidence": 0.752, 
+      "duration": 2.00328, 
+      "start": 145.12532
+    }, 
+    {
+      "confidence": 0.156, 
+      "duration": 2.00548, 
+      "start": 147.1286
+    }, 
+    {
+      "confidence": 0.476, 
+      "duration": 2.0055, 
+      "start": 149.13408
+    }, 
+    {
+      "confidence": 0.465, 
+      "duration": 2.00684, 
+      "start": 151.13958
+    }, 
+    {
+      "confidence": 0.362, 
+      "duration": 1.99422, 
+      "start": 153.14642
+    }, 
+    {
+      "confidence": 0.069, 
+      "duration": 1.99863, 
+      "start": 155.14064
+    }, 
+    {
+      "confidence": 0.223, 
+      "duration": 2.0022, 
+      "start": 157.13926
+    }, 
+    {
+      "confidence": 0.471, 
+      "duration": 1.99374, 
+      "start": 159.14147
+    }, 
+    {
+      "confidence": 0.642, 
+      "duration": 1.99998, 
+      "start": 161.13521
+    }, 
+    {
+      "confidence": 0.112, 
+      "duration": 2.00131, 
+      "start": 163.13518
+    }, 
+    {
+      "confidence": 0.037, 
+      "duration": 1.99915, 
+      "start": 165.13649
+    }, 
+    {
+      "confidence": 0.545, 
+      "duration": 2.0024, 
+      "start": 167.13564
+    }, 
+    {
+      "confidence": 0.426, 
+      "duration": 1.99665, 
+      "start": 169.13803
+    }, 
+    {
+      "confidence": 0.269, 
+      "duration": 2.00334, 
+      "start": 171.13469
+    }, 
+    {
+      "confidence": 0.811, 
+      "duration": 1.99576, 
+      "start": 173.13803
+    }, 
+    {
+      "confidence": 0.334, 
+      "duration": 2.00158, 
+      "start": 175.13379
+    }, 
+    {
+      "confidence": 0.782, 
+      "duration": 1.99706, 
+      "start": 177.13536
+    }, 
+    {
+      "confidence": 0.695, 
+      "duration": 2.00491, 
+      "start": 179.13243
+    }, 
+    {
+      "confidence": 0.659, 
+      "duration": 2.00282, 
+      "start": 181.13733
+    }, 
+    {
+      "confidence": 0.592, 
+      "duration": 1.99667, 
+      "start": 183.14015
+    }, 
+    {
+      "confidence": 0.51, 
+      "duration": 1.99237, 
+      "start": 185.13682
+    }, 
+    {
+      "confidence": 0.608, 
+      "duration": 2.0012, 
+      "start": 187.12919
+    }, 
+    {
+      "confidence": 0.658, 
+      "duration": 2.00258, 
+      "start": 189.13038
+    }, 
+    {
+      "confidence": 0.111, 
+      "duration": 2.00138, 
+      "start": 191.13297
+    }, 
+    {
+      "confidence": 0.381, 
+      "duration": 1.99415, 
+      "start": 193.13435
+    }, 
+    {
+      "confidence": 0.691, 
+      "duration": 2.00809, 
+      "start": 195.1285
+    }, 
+    {
+      "confidence": 0.696, 
+      "duration": 2.00297, 
+      "start": 197.13659
+    }, 
+    {
+      "confidence": 0.481, 
+      "duration": 1.99669, 
+      "start": 199.13956
+    }, 
+    {
+      "confidence": 0.566, 
+      "duration": 1.993, 
+      "start": 201.13625
+    }, 
+    {
+      "confidence": 0.516, 
+      "duration": 1.99621, 
+      "start": 203.12925
+    }, 
+    {
+      "confidence": 0.686, 
+      "duration": 2.00251, 
+      "start": 205.12546
+    }, 
+    {
+      "confidence": 0.457, 
+      "duration": 1.99871, 
+      "start": 207.12797
+    }, 
+    {
+      "confidence": 0.639, 
+      "duration": 0.99661, 
+      "start": 209.12668
+    }, 
+    {
+      "confidence": 0.381, 
+      "duration": 2.00213, 
+      "start": 210.12329
+    }, 
+    {
+      "confidence": 0.782, 
+      "duration": 2.00581, 
+      "start": 212.12542
+    }, 
+    {
+      "confidence": 0.814, 
+      "duration": 2.00081, 
+      "start": 214.13124
+    }, 
+    {
+      "confidence": 0.473, 
+      "duration": 2.00047, 
+      "start": 216.13204
+    }, 
+    {
+      "confidence": 0.154, 
+      "duration": 2.0094, 
+      "start": 218.13252
+    }, 
+    {
+      "confidence": 0.151, 
+      "duration": 2.00282, 
+      "start": 220.14192
+    }, 
+    {
+      "confidence": 0.103, 
+      "duration": 2.0155, 
+      "start": 222.14473
+    }, 
+    {
+      "confidence": 0.418, 
+      "duration": 2.01206, 
+      "start": 224.16023
+    }, 
+    {
+      "confidence": 0.0, 
+      "duration": 2.02396, 
+      "start": 226.1723
+    }
+  ], 
+  "beats": [
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 0.12443999999999988
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 0.6244399999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 1.1244399999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 1.6244399999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 2.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 2.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 3.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 3.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 4.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 4.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 5.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 5.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 6.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 6.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 7.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 7.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 8.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 8.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 9.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 9.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 10.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 10.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 11.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 11.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 12.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 12.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 13.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 13.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 14.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 14.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 15.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 15.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 16.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 16.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 17.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 17.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 18.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 18.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 19.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 19.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 20.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 20.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 21.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 21.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 22.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 22.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 23.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 23.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 24.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 24.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 25.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 25.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 26.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 26.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 27.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 27.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 28.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 28.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 29.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 29.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 30.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 30.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 31.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 31.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 32.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 32.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 33.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 33.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 34.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 34.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 35.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 35.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 36.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 36.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 37.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 37.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 38.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 38.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 39.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 39.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 40.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 40.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 41.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 41.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 42.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 42.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 43.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 43.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 44.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 44.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 45.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 45.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 46.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 46.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 47.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 47.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 48.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 48.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 49.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 49.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 50.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 50.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 51.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 51.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 52.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 52.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 53.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 53.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 54.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 54.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 55.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 55.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 56.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 56.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 57.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 57.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 58.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 58.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 59.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 59.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 60.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 60.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 61.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 61.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 62.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 62.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 63.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 63.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 64.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 64.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 65.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 65.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 66.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 66.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 67.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 67.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 68.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 68.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 69.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 69.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 70.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 70.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 71.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 71.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 72.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 72.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 73.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 73.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 74.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 74.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 75.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 75.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 76.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 76.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 77.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 77.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 78.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 78.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 79.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 79.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 80.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 80.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 81.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 81.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 82.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 82.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 83.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 83.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 84.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 84.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 85.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 85.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 86.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 86.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 87.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 87.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 88.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 88.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 89.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 89.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 90.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 90.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 91.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 91.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 92.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 92.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 93.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 93.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 94.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 94.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 95.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 95.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 96.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 96.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 97.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 97.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 98.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 98.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 99.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 99.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 100.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 100.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 101.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 101.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 102.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 102.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 103.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 103.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 104.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 104.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 105.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 105.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 106.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 106.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 107.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 107.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 108.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 108.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 109.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 109.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 110.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 110.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 111.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 111.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 112.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 112.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 113.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 113.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 114.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 114.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 115.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 115.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 116.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 116.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 117.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 117.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 118.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 118.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 119.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 119.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 120.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 120.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 121.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 121.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 122.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 122.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 123.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 123.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 124.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 124.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 125.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 125.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 126.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 126.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 127.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 127.62443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 128.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 128.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 129.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 129.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 130.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 130.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 131.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 131.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 132.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 132.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 133.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 133.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 134.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 134.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 135.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 135.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 136.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 136.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 137.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 137.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 138.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 138.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 139.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 139.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 140.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 140.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 141.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 141.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 142.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 142.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 143.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 143.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 144.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 144.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 145.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 145.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 146.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 146.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 147.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 147.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 148.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 148.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 149.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 149.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 150.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 150.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 151.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 151.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 152.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 152.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 153.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 153.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 154.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 154.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 155.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 155.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 156.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 156.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 157.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 157.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 158.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 158.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 159.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 159.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 160.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 160.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 161.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 161.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 162.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 162.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 163.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 163.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 164.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 164.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 165.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 165.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 166.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 166.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 167.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 167.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 168.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 168.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 169.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 169.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 170.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 170.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 171.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 171.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 172.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 172.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 173.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 173.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 174.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 174.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 175.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 175.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 176.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 176.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 177.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 177.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 178.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 178.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 179.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 179.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 180.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 180.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 181.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 181.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 182.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 182.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 183.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 183.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 184.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 184.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 185.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 185.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 186.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 186.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 187.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 187.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 188.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 188.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 189.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 189.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 190.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 190.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 191.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 191.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 192.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 192.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 193.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 193.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 194.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 194.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 195.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 195.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 196.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 196.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 197.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 197.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 198.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 198.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 199.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 199.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 200.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 200.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 201.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 201.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 202.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 202.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 203.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 203.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 204.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 204.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 205.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 205.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 206.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 206.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 207.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 207.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 208.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 208.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 209.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 209.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 210.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 210.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 211.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 211.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 212.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 212.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 213.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 213.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 214.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 214.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 215.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 215.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 216.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 216.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 217.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 217.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 218.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 218.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 219.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 219.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 220.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 220.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 221.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 221.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 222.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 222.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 223.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 223.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 224.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 224.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 225.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 225.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 226.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 226.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 227.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 227.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 228.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 228.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 229.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 229.62444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 230.12444
+    }
+  ], 
+  "sections": [
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 1.1244399999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 9.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 41.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 73.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 105.12443999999999
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 153.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 169.12444
+    }, 
+    {
+      "confidence": 1, 
+      "duration": 0.5, 
+      "start": 217.12444
+    }
+  ]
+}
