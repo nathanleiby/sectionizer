@@ -52,7 +52,7 @@ Naming Sections
 
 If I can look for similar sounds, e.g. as done by Paul in [Pop Structure](http://musicmachinery.com/2012/11/19/visualizing-the-structure-of-pop-music/), I would like to be able to guess what's a chorus vs a verse, intro, etc.
 
-## Related rojects
+## Related Projects
 
 - Webaudio API book http://chimera.labs.oreilly.com/books/1234000001552/ch04.html
 - http://moduscreate.com/touch-dj-a-sencha-touch-dj-app/
