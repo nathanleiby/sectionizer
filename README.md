@@ -36,11 +36,49 @@ I'd like to be able to
 ## Example Songs during Demo
 
 1. easy one : Daft Punk
-2. harder one : has a pause at start.. but can use start_of thing to work it
-3. harder yet : has 4 and 8 bar fills, so i can't just guess that sections are repeatedly in blocks of 16
-4. to improve in the future...
+
+`004 Daft Punk - Get Lucky (feat. Pharrell Williams).mp3`
+
+%run update_song.py 004
+
+3. harder one : has sound at start .. but can offset by beats... I need to get better at automating this
+
+`016 Capital Cities - Safe and Sound.mp3`
+
+%run update_song.py 016
+
+3. harder one : has quiet at start.. but can use start_of thing to work it
+
+`017 Pink - Just Give Me A Reason feat. Nate Ruess.mp3`
+
+%run update_song.py 017
+
+4. to improve... total mess
+
+`015 Selena Gomez - Come and Get It.mp3`
+
+%run update_song.py 015
+
+5. others that work ok
+
+`012 Maroon 5 - Love Somebody.mp3`
+
+%run update_song.py 012
+
+`007 Florida Georgia Line ft. Nelly - Cruise.mp3`
+
+%run update_song.py 007
+
+`009 Anna Kendrick - Cups.mp3`
+
+%run update_song.py 009
 
 ## Future Work
+
+More Sections.
+
+- Right now I am basically finding "the closet place to an EN guessed section". But there are more sections in the song than just these. (or occasionally, they might not be real user-perceived sections.)
+- Granualarity of sections? (e.g. fills/prechorus/break/pickup/other vs intro/verse/chorus/outro)
 
 Improved quality.
 
