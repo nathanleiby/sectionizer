@@ -8,14 +8,14 @@ import ipdb
 from pprint import pprint
 import pyechonest
 
-mypath = "/Users/pika/Projects/music-hackday/sectionator/"
+mypath = "/YOUR_USER_FOLDER/Projects/music-hackday/sectionizer/"
 
 
-MEDIA="/Users/pika/Torrents/Billboard Hot 100 08-03-2013/" # + name + ".mp3"
-JSON="/Users/pika/Projects/music-hackday/sectionator/json/" #+ name + ".json"
-PICKLE="/Users/pika/Projects/music-hackday/sectionator/pkl/"
-OUTPATH_MEDIA="/Users/pika/Projects/music-hackday/wavesurfer.js/example/media/"
-OUTPATH_JSON="/Users/pika/Projects/music-hackday/wavesurfer.js/"
+MEDIA="/YOUR_USER_FOLDER/FOLDER_OF_MP3S/" # + name + ".mp3"
+JSON="/YOUR_USER_FOLDER/Projects/music-hackday/sectionizer/json/" #+ name + ".json"
+PICKLE="/YOUR_USER_FOLDER/Projects/music-hackday/sectionizer/pkl/"
+OUTPATH_MEDIA="/YOUR_USER_FOLDER/Projects/music-hackday/wavesurfer.js/example/media/"
+OUTPATH_JSON="/YOUR_USER_FOLDER/Projects/music-hackday/wavesurfer.js/"
 
 def copy_file_starts_with(start_str, from_folder, to_file):
     mypath = from_folder
