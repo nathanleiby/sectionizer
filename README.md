@@ -101,3 +101,6 @@ If I can look for similar sounds, e.g. as done by Paul in [Pop Structure](http:/
 - Remix.JS graph http://tide-pool.ca/remix-graph/examples/graph.html?trid=TRJNCBX14141A5C329
 - infinite song .. http://static.echonest.com/mobiustube/
 
+## License and Attribution
+
+This project was built upon https://github.com/katspaugh/wavesurfer.js, which was licensed under a Creative Commons Attribution 3.0 Unported License.
